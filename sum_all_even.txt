@@ -1,0 +1,8 @@
+step-1 : start 
+step-2 : declare variables sum=0,i=1,n=0
+step-3 : read n
+step-4 : while i<=n is true continue else goto step-7
+step-5 : if i mod 2 is 0 than increase sum with i else continue
+step-6 : increase i with 1 and goto step-4
+step-7 : print sum
+step-8 : end

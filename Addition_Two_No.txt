@@ -1,0 +1,6 @@
+step-1 : Start
+step-2 : Input No1 and No2
+step-3 : declare sum variable with 0
+step-4 : add No1 and No2 in sum variable
+step-5 : print sum
+step-6 : Stop

@@ -1,0 +1,7 @@
+step-1 : Start
+step-2 : input r (Radius of Circle)
+stpe-3 : declare pie with 3.14 and area with 0
+step-4 : read r
+step-5 : multiple of pie and square of radius and store with area
+step-6 : print area
+step-7 : Stop
